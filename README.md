@@ -1,6 +1,6 @@
 iOS Test Directory App
 ---
 
-# About SK:
+# About App:
 
 N/A
