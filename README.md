@@ -1,7 +1,7 @@
 SK iOS Test Directory
 ---
 
-# About 
+# About SK
 
 This is a test...
 
