@@ -1,7 +1,6 @@
-SK iOS Test Directory
+SK iOS Test Directory App
 ---
 
-# About SK
+# About SK:
 
-This is a test...
-
+This is a test...now i'm adding random text to fix.
